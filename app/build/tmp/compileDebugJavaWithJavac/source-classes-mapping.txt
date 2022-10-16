@@ -1,0 +1,11 @@
+com/example/activity_recognizer/ActivitiesAdapter.java
+ com.example.activity_recognizer.ActivitiesAdapter
+ com.example.activity_recognizer.ActivitiesAdapter$ViewHolder
+com/example/activity_recognizer/SendData.java
+ com.example.activity_recognizer.SendData
+com/example/activity_recognizer/ServiceHandler.java
+ com.example.activity_recognizer.ServiceHandler
+com/example/activity_recognizer/BuildConfig.java
+ com.example.activity_recognizer.BuildConfig
+com/example/activity_recognizer/MainActivity.java
+ com.example.activity_recognizer.MainActivity
